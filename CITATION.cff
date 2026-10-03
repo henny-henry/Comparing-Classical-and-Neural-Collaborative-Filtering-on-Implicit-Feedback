@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this code or build on the thesis, please cite it as below."
+title: "Comparing classical and neural collaborative filtering models on implicit feedback data"
+type: software
+authors:
+  - family-names: Vetsler
+    given-names: G. V.
+license: MIT
+preferred-citation:
+  type: thesis
+  thesis-type: "Bachelor's thesis (Senior Project)"
+  title: "Comparing classical and neural collaborative filtering models on implicit feedback data"
+  authors:
+    - family-names: Vetsler
+      given-names: G. V.
+  institution:
+    name: "University College Roosevelt"
+    city: Middelburg
+    country: NL
+  year: 2025

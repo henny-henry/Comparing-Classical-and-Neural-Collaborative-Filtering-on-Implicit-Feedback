@@ -1,0 +1,9 @@
+# Versions the code in src/, scripts/ and tests/ was tested with (Python 3.12).
+# The thesis experiments ran in Kaggle's default Python/TensorFlow image; its exact
+# package versions were not recorded.
+numpy==2.5.3
+pandas==3.0.6
+scipy==1.18.1
+scikit-learn==1.9.1
+matplotlib==3.11.2
+tensorflow==2.21.0

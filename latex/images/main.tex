@@ -1,0 +1,36 @@
+\documentclass[11pt]{article}
+\usepackage[english]{babel}
+%\usepackage{natbib}
+\usepackage{url}
+\usepackage{hyperref}
+\usepackage{rotating}
+\usepackage{appendix}
+\usepackage[utf8x]{inputenc}
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage{color}
+\usepackage{transparent}
+\usepackage{parskip}
+\usepackage{fancyhdr}
+\usepackage{background}
+
+% use an images folder
+\graphicspath{{images/}}
+
+\usepackage[a4paper, total={165mm, 216mm}]{geometry}
+\renewcommand{\familydefault}{\sfdefault}
+
+% set running headings on each page
+% https://www.overleaf.com/learn/latex/Headers_and_footers
+\pagestyle{fancy}
+\rhead{\theauthor}
+\lhead{\thetitle}
+\cfoot{\thepage}
+
+\begin{document}
+\input{titlepage}
+\pagebreak
+
+
+
+\end{document}
